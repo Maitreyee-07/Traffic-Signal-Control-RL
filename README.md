@@ -3,7 +3,7 @@ This repository contains files for the traffic light management system using Rei
 
 ## Basic Idea 
 
-![sample]()
+![sample](Images/samplecity1.png)
 
 Suppose we have a city grid as shown above with 4 traffic light nodes.<br/>
 n1, n2, n3, and n4
@@ -17,7 +17,7 @@ The amount of waiting time for a given traffic signal is equal to the total car 
 Each traffic signal will have 4 waiting time counter for each side of the road. So based on that our model will<br/>
 decide which side to select for the green signal.
 
-![train]()
+![train](Images/train_loop.png)
 
 ## Basic training process.
 
